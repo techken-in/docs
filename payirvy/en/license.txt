@@ -1,0 +1,49 @@
+License Acceptance and Agreement for Payirvy
+
+1. Acceptance of Terms
+
+By installing, accessing, or using the Payirvy mobile application ("the App"), you agree to be bound by the terms of this License Acceptance and Agreement. If you do not agree with any part of this agreement, please do not install or use the App.
+
+2. License Grant
+
+2.1. Limited License: Techken Technologies grants you a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes, subject to the terms and conditions outlined in this agreement.
+
+2.2. Restrictions: You may not sublicense, assign, transfer, or distribute the App, its content, or any rights granted herein. Any attempt to do so is a violation of the terms of this license.
+
+3. User Responsibilities
+
+3.1. Compliance: You agree to use the App in compliance with all applicable laws, regulations, and this License Agreement.
+
+3.2. Account Security: You are responsible for maintaining the confidentiality and security of your account credentials.
+
+4. Intellectual Property
+
+4.1. Ownership: The App, including all content and intellectual property associated with it, is owned by Techken Technologies or its licensors.
+
+4.2. Unauthorized Use: You agree not to engage in any unauthorized use, copying, or distribution of the App or its content.
+
+5. Updates and Modifications
+
+Techken Technologies may release updates, modifications, or new versions of the App. By using the App, you agree to accept and install these updates as part of your use of the App.
+
+6. Termination
+
+Techken Technologies reserves the right to terminate this license at any time for any reason. Upon termination, you must cease using the App and uninstall it from your device.
+
+7. Disclaimer, Cancellation, and Refund Policies
+
+Your use of the App is also governed by our Disclaimer, Cancellation, and Refund Policies. Please review these policies to understand the terms and conditions associated with using Payirvy.
+
+8. Governing Law
+
+This License Agreement is governed by and construed in accordance with the laws of India.
+
+9. Changes to License Agreement
+
+Techken Technologies reserves the right to update or change this License Agreement at any time. Any changes will be posted on this page, and the effective date will be updated accordingly.
+
+10. Contact Us
+
+If you have any questions or concerns about this License Agreement, please contact us at [techken.in@gmail.com].
+
+Thank you for using Payirvy!
